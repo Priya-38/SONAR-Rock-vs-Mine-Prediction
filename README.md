@@ -1,0 +1,2 @@
+# SONAR-Rock-vs-Mine-Prediction
+Consider there is a submarine and there is  a war going on  b/w two countries, so submarine of  a country is going in underwater to another countries and the enemy country have planted some mines(explosive that explodes when some object comes in contact with it)  in the ocean and also there can be rocks in the ocean. So the submarine needs to predict whether it is crossing a rock or a mine.
